@@ -15,7 +15,11 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/aawaz/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I'm an expert Software Engineer with 8+ years of experience in the field. I contribute a lot to the open-source community, especially to the Flutter ecosystem and its firebase packages. So far I've successfully developed, delivered, and published 70+ software solutions with excellent ratings and happy users.
+
+Having the experience of operating a tech business of my own with a successful exit, I can be your perfect project manager/tech lead to give ideas and bring technical value to your next venture.
+
+To date, I have worked with 15+ companies/teams and provided my service to bring more value to their products.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
