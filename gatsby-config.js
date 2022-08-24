@@ -23,57 +23,64 @@ To date, I have worked with 15+ companies/teams and provided my service to bring
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Nepal Share',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          `A mobile-first application that can allow users to track their portfolio, manage notes and get alerts on their desired configuration.
+
+          The application has 1M+ monthly active users and 100K+ daily active users.`,
+        link: 'https://play.google.com/store/apps/details?id=com.brainants.meroshare&hl=en&gl=US',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Stratosfy Marker',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'Remote workforce management software solution.',
+        link: 'https://play.google.com/store/apps/developer?id=Stratosfy+Inc',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Logistixai.com',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'logistix.ai is an advanced order and field management platform for Final Mile and Home Service Providers.',
+        link: 'https://apps.apple.com/us/app/logistix-ai/id1519937068',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Total - Software Engineer',
+        description: 'Full-Stack Developer, August 2022 - Present',
+        link: 'https://www.toptal.com/resume/avaaj-gyawali',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Logistixai.com',
+        description: 'logistix.ai is an advanced order and field management platform for Final Mile and Home Service Providers.',
+        link: 'https://apps.apple.com/us/app/logistix-ai/id1519937068',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Brainants Technology Pvt Ltd',
+        description: 'Chief Executive Officer',
+        link: 'https://brainants.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
+
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Dart, JavaScript, TypeScript, Kotlin, Objective C, Swift, YAML, Flutter, Express.js, React Native',
+      },
+      {
+        name: 'Libraries/APIs',
+        description: 'Stripe, Paypal, Firebase, Agora, Algolia',
       },
       {
         name: 'Databases',
         description: 'MongoDB, PostreSQL, MySQL',
       },
       {
-        name: 'Other',
+        name: 'Cloud Computing',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Digital Ocean, Google Cloud Platform, Azure',
       },
     ],
   },
