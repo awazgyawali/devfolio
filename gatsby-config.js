@@ -139,8 +139,8 @@ To date, I have worked with 15+ companies/teams and provided my service to bring
         name: `devfolio`,
         short_name: `devfolio`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`, // This color appears on mobile
+        background_color: `#3366B3`,
+        theme_color: `#3366B3`, // This color appears on mobile
         display: `minimal-ui`,
         icon: `src/images/icon.png`,
       },
