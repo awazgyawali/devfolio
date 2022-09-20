@@ -46,7 +46,7 @@ To date, I have worked with 15+ companies/teams and provided my service to bring
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Total - Software Engineer',
+        name: 'Toptal - Software Engineer',
         description: 'Full-Stack Developer, August 2022 - Present',
         link: 'https://www.toptal.com/resume/avaaj-gyawali',
       },
